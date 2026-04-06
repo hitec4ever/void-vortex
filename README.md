@@ -1,6 +1,6 @@
 # Void Vortex
 
-Een arcade-game voor de iPhone die we met z'n tweeën hebben gebouwd (vader en zoon), met hulp van AI.
+Een arcade-game voor de iPhone die we met z'n tweeën hebben gebouwd, met hulp van vader van Fosse en AI.
 
 ![Void Vortex](GravityWell/Assets.xcassets/AppIcon.appiconset/AppIcon-1024.png)
 
