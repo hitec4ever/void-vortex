@@ -43,3 +43,4 @@ We begonnen met een simpel prototype als webpagina, om te kijken of het idee leu
 ## Licentie
 
 Dit project is bedoeld voor persoonlijk en educatief gebruik.
+
